@@ -2,22 +2,5 @@ h1{
     font-family: "Arial";
 }
 p{
-    font-family: monospace;
-}
-body{
-    font-size: 18px;
-}
-
-#two{
-    font-size: 2em; /*two elements os same type*/
-}
-
-/* 1em = 16px */
-
-p{
-    font-style: italic;
-    font-weight: bold;
-}
-h1{
-    text-align: center;
+    font-family: 'Dokdo', cursive;
 }
