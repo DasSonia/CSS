@@ -1,19 +1,32 @@
-body{
-    background:url('bg.jpg');
-    background-repeat: no-repeat; /* repeat */
-}
-div{
-    background-color: blue;
-    border-color: orange;
-    border-width: thick; /* 10px */
-    border-style: double;
+.FirstDiv{
+color: blue;
 }
 
-p{
-    color: yellow;
+.SecondDiv{
+    color: red;
 }
 
-span{
-    background: red;
+#singledout{
+    color: green;
+    text-decoration: line-through;
+}
+
+/* not for id but everything */
+
+/* *{
     color: black;
+} */
+
+/* ul next to h3 */
+h3 + ul{
+    border: 4px dotted purple;
+}
+
+/* decendants */
+li a{
+    color: red;
+}
+/* attrinutes */
+li a[href="dummy.com"]{
+    border: 5px solid orange;
 }
