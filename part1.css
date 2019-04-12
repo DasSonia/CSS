@@ -1,32 +1,11 @@
-.FirstDiv{
-color: blue;
-}
-
-.SecondDiv{
+li{
     color: red;
 }
 
-#singledout{
-    color: green;
-    text-decoration: line-through;
+.topitems{
+    color: blue;
 }
 
-/* not for id but everything */
-
-/* *{
-    color: black;
-} */
-
-/* ul next to h3 */
-h3 + ul{
-    border: 4px dotted purple;
-}
-
-/* decendants */
-li a{
-    color: red;
-}
-/* attrinutes */
-li a[href="dummy.com"]{
-    border: 5px solid orange;
+#two{
+    border: 3px solid black;
 }
