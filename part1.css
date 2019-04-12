@@ -1,23 +1,9 @@
-/*comment*/
-/* select multiple lines and ctrl + / */
-
-/* 
-selected_tag {
-    property: value;
-} 
-*/
-
-h1{
-    color: darkorchid;
+body{
+    background:grey; 
 }
-li{
-    color: rgb(153, 153, 255);
-}
-
-p{
-    color: #cc00ff;
-}
-
-h4{
-     color: rgba(204, 0, 0,0.5); /*alpha 0-1 */
+div{
+    background-color: red;
+    border-color: blue;
+    border-width: thick; /* 10px */
+    border-style: dotted;
 }
