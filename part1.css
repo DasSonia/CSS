@@ -17,3 +17,7 @@ li{
 p{
     color: #cc00ff;
 }
+
+h4{
+     color: rgba(204, 0, 0,0.5); /*alpha 0-1 */
+}
