@@ -1,5 +1,6 @@
 body{
-    background:grey; 
+    background:url('bg.jpg');
+    background-repeat: no-repeat; /* repeat */
 }
 div{
     background-color: blue;
